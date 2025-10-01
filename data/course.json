@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "9c68131c-e04e-1f48-ed15-9e295c387f64",
+  "instructors": {
+    "content": [
+      "da6cb1fd-9081-ba71-ea7b-d7a362a47f0f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9192c90a-33b3-6f28-9c6a-0dc91834348a",
+    "website": "18-034-honors-differential-equations-spring-2009"
+  },
+  "course_title": "Honors Differential Equations",
+  "hide_download": true,
+  "course_description": "This course covers the same material as Differential Equations (18.03) with more emphasis on theory. In addition, it treats mathematical aspects of ordinary differential equations such as existence theorems.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.034",
+  "course_image_thumbnail": {
+    "content": "7d9ab0c1-a023-4508-107a-f8e8f17fea12",
+    "website": "18-034-honors-differential-equations-spring-2009"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "3df5196c-280b-42f0-a84f-959026fbe4c9",
+  "site_short_id": "18.034-spring-2009",
+  "site_url_path": "courses/18-034-honors-differential-equations-spring-2009",
+  "title": "Course Metadata"
+}
