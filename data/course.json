@@ -26,7 +26,6 @@
     "website": "18-034-honors-differential-equations-spring-2009"
   },
   "course_title": "Honors Differential Equations",
-  "hide_download": true,
   "course_description": "This course covers the same material as Differential Equations (18.03) with more emphasis on theory. In addition, it treats mathematical aspects of ordinary differential equations such as existence theorems.\n",
   "department_numbers": [
     "18"
@@ -37,7 +36,6 @@
     "content": "7d9ab0c1-a023-4508-107a-f8e8f17fea12",
     "website": "18-034-honors-differential-equations-spring-2009"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Lecture Notes",

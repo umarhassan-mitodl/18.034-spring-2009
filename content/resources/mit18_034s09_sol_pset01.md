@@ -4,8 +4,6 @@ description: Solutions to a problem set on differential equations.
 file: /courses/18-034-honors-differential-equations-spring-2009/2200014e7bb854037c732ad7f65166c5_MIT18_034s09_sol_pset01.pdf
 file_size: 74393
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

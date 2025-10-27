@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the schedule of lecture topics and readings for
   the course along with lecture notes developed by the instructor to supplement the
   reading assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Notes and Readings
